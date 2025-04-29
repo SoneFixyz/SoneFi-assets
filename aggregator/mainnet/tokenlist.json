@@ -1,0 +1,138 @@
+{
+    "name": "SoneFi",
+    "keywords": [
+      "soneFi",
+      "defi",
+      "aggregator"
+    ],
+    "timestamp": "2025-03-04T08:10:00.000+00:00",
+    "tokens": [
+      {
+        "address": "0x4200000000000000000000000000000000000006",
+        "symbol": "WETH",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/weth.png",
+        "poolAddr": "0x9FCCa0a1af56d34C88156E8857A5f430dB7A6382",
+        "toTokenAddr": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+      },
+      {
+        "address": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/astr.png",
+        "poolAddr": "0x85292123600c5D2b65d3AdD38e1Dbd88e218d380",
+        "toTokenAddr": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/btc.png",
+        "poolAddr": "0x7ED634e87db3Bd1Fd6bE6F15E38f3434c75D64c7",
+        "toTokenAddr": "0x4200000000000000000000000000000000000006",
+        "relayTokens": [
+          "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+          "0xCC0966D8418d412c599A6421b760a847eB169A8c"
+        ]
+      },
+      {
+        "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+        "symbol": "USDT",
+        "decimals": 6,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdt.png",
+        "poolAddr": "0x3844fDD68fD40319f977e9d8f15e7f5d61131ec2",
+        "toTokenAddr": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+      },
+      {
+        "address": "0x54e86315C03217b76A7466C302245fD10ebEf25A",
+        "symbol": "yaySTONE",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/yaystone.png",
+        "poolAddr": "0x474e2710DB4D8AADBA33af61Ba86392edDebd538",
+        "toTokenAddr": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "address": "0xf24e57b1cb00d98C31F04f86328e22E8fcA457fb",
+        "name": "SONE",
+        "symbol": "SONE",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/sone.png",
+        "poolAddr": "0xe94B755BD58B85FF2C6cEE2319178Cc96433B337",
+        "toTokenAddr": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+      },
+      {
+        "address": "0xc67476893C166c537afd9bc6bc87b3f228b44337",
+        "symbol": "nsASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/nsastr.png",
+        "poolAddr": "0xD756D54Ec07eb0dfd136c0D5749Cd22b67310066",
+        "toTokenAddr": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441"
+      },
+      {
+        "address": "0x2fc9a87b1ef46dCDdF4801C36d752E0d5F243E4b",
+        "symbol": "nrETH",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/nreth.png",
+        "poolAddr": "0x0C455f5F6c54d2b0E83fCfB9264e5D378453357c",
+        "toTokenAddr": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "address": "0x60336f9296C79dA4294A19153eC87F8E52158e5F",
+        "symbol": "vASTR",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/vastr.png",
+        "poolAddr": "0xacDd79013bAf483f66bf19AA96d8daAfc8862FEd",
+        "toTokenAddr": "0x2CAE934a1e84F693fbb78CA5ED3B0A6893259441"
+      },
+      {
+        "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+        "symbol": "SolvBTC",
+        "decimals": 18,
+        "tag": "Trends",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/solvbtc.png",
+        "poolAddr": "0x99340c84921f8A765ef020589C65F231d44a700D",
+        "toTokenAddr": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "relayTokens": [
+          "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+          "0xCC0966D8418d412c599A6421b760a847eB169A8c"
+        ]
+      },
+      {
+        "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "tag": "USD",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/usdc.png"
+      },
+      {
+        "address": "0x3b0DC2daC9498A024003609031D973B1171dE09E",
+        "symbol": "wstASTR",
+        "decimals": 18,
+        "tag": "All",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/wstastr.png",
+        "poolAddr": "0x35AC16A9E5E3Ba52938e692299167f2868eeEd06"
+      },
+      {
+        "address": "0x6c460b2c6D6719562D5dA43E5152B375e79B9A8B",
+        "symbol": "pufETH",
+        "decimals": 18,
+        "tag": "All",
+        "logoURI": "https://raw.githubusercontent.com/SoneFixyz/SoneFi-Materials/refs/heads/main/aggregator/assets/pufeth.png",
+        "poolAddr": "0x4A0e0E8d5DF4AEC0a08359e599720628b179F7eD"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
